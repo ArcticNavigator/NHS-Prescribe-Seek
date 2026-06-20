@@ -61,9 +61,9 @@ if 'uploader_key' not in st.session_state:
 
 @st.cache_resource
 def load_model():
-    model = joblib.load("NHS_Model/rf_model.pkl")
-    le_icb = joblib.load("NHS_Model/le_icb.pkl")
-    le_bnf = joblib.load("NHS_Model/le_bnf.pkl")
+    model = joblib.load("rf_model.pkl")
+    le_icb = joblib.load("le_icb.pkl")
+    le_bnf = joblib.load("le_bnf.pkl")
     return model, le_icb, le_bnf
 
 model, le_icb, le_bnf = load_model()
