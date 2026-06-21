@@ -35,7 +35,7 @@ This is the **main repository** containing the complete project: the analysis no
 ## Headline findings
 
 - The NHS spent **£10.54 billion** on primary care prescribing in 2025 across **1.27 billion** prescriptions.
-- The **Endocrine System** is the most expensive drug category (£2.23B, 21% of all spend) yet only the 3rd most prescribed — cost is driven by drug pricing, not volume.
+- The **Endocrine System** is the most expensive drug category (£2.23B, 21% of all spend) yet only the 3rd most prescribed. The cost is driven by drug pricing, not volume.
 - The **Cardiovascular System** is the most prescribed category (388 million items, 30.6% of all prescriptions) but only 4th in cost, because most of its drugs are cheap generics.
 - **NHS Hampshire and Isle of Wight** is the most expensive Integrated Care Board (ICB) at £22.14 per prescription; **NHS North West London** is the cheapest at £18.04 - a persistent £4.10 gap every month.
 - **288 GP practices** overspend every single month relative to their local peers; the analysis proves this is driven by prescribing behaviour, not procurement prices or patient volume.
